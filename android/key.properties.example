@@ -1,0 +1,7 @@
+# Copy this file to android/key.properties and fill the values
+# Do NOT commit android/key.properties to version control
+storePassword=your-store-password
+keyPassword=your-key-password
+keyAlias=your-key-alias
+# Path to the keystore file. Can be absolute or relative to the project root.
+storeFile= C:\\path\\to\\your\\keystore.jks
