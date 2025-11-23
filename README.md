@@ -1,16 +1,80 @@
-# horas_complementares
+# 📘 HorasComplementares
 
-A new Flutter project.
+Aplicativo desenvolvido para facilitar o gerenciamento de horas complementares acadêmicas. Com ele, você pode registrar atividades, acompanhar o total acumulado e organizar tudo de forma simples e rápida.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Status das Plataformas
 
-A few resources to get you started if this is your first Flutter project:
+| Plataforma | Status |
+|-----------|--------|
+| **Android** | ✔️ Funcional — *em fase de testes* |
+| **Web** | ✔️ Funcional — *em fase de testes* |
+| **iOS** | ⚠️ Ainda **não testado** — pode apresentar instabilidades |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔍 Sobre o Projeto
+
+O **HorasComplementares** é um app desenvolvido em **Flutter**, focado em ajudar estudantes a registrar e acompanhar horas complementares exigidas por instituições de ensino.  
+O objetivo é oferecer uma interface simples, leve e eficiente, permitindo que o usuário tenha controle total das atividades realizadas ao longo do curso.
+
+---
+
+## 🚀 Funcionalidades
+
+- Cadastro de atividades com:
+  - Nome  
+  - Categoria/tipo  
+  - Data  
+  - Quantidade de horas  
+  - Descrição (opcional)  
+- Cálculo automático do total de horas acumuladas  
+- Listagem completa das atividades cadastradas  
+- Interface responsiva e multiplataforma  
+- Suporte ativo para Android e Web  
+- Estrutura preparada para expansões futuras (PDF, filtros, estatísticas etc.)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter** (Dart)  
+- Persistência local (dependendo da implementação atual)  
+- Suporte planejado para integração com backend  
+
+---
+
+## 📦 Instalação e Execução
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ffelipef/horasComplementares.git
+   cd horasComplementares
+   
+2. Instale as dependências:
+    ```bash
+    flutter pub get
+    
+3. Execute o projeto:
+    ```bash
+    flutter run
+
+##🧪 Roadmap / Próximas Funcionalidades
+
+  - 📄 Exportação de relatório (PDF ou CSV)
+  - 📊 Tela de estatísticas
+  - 🔍 Filtros por tipo, período ou carga horária
+  - ☁️ Integração com backend (opcional)
+  - 📱 Testes completos em iOS
+  - 🎨 Tema claro/escuro
+  - 💾 Melhoria da persistência de dados
+
+## 🤝 Contribuindo
+
+Contribuições são muito bem-vindas!
+Sinta-se à vontade para:
+
+  - Abrir Issues com sugestões ou problemas
+
+  - Enviar Pull Requests com melhorias ou novas funcionalidades
