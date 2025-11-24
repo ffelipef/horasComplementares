@@ -4,6 +4,17 @@ Aplicativo desenvolvido para facilitar o gerenciamento de horas complementares a
 
 ---
 
+## 📥 Download do App
+
+Se você não deseja compilar o projeto e quer apenas utilizar o aplicativo, você pode baixar a versão pronta aqui:
+
+- **Android (APK): [https://www.mediafire.com/file/w9v3ih60hf6e3zy/app-debug.apk/file]
+- **iOS:** ⚠️ Ainda não disponível — o app **ainda não foi testado** nesta plataforma
+
+> Assim que novas versões forem publicadas, os links serão atualizados nesta seção.
+
+---
+
 ## 📱 Status das Plataformas
 
 | Plataforma | Status |
