@@ -168,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Dashboard")),
+      appBar: AppBar(title: const Text("Horas Complementares", style: TextStyle(color: Color.fromARGB(255, 255, 255, 255)))),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Column(
