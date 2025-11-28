@@ -1,4 +1,4 @@
-# 📘 HorasComplementares
+# 📘 AC Tracker (Horas Complementares)
 
 Aplicativo desenvolvido para facilitar o gerenciamento de horas complementares acadêmicas. Com ele, você pode registrar atividades, acompanhar o total acumulado e organizar tudo de forma simples e rápida.
 
